@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on full-stack web applications
 - 📫 How to reach me: You can find me on Linkedin at https://www.linkedin.com/in/jeeva-p-r
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I enjoy learning new programming languages and frameworks, and my goal is to never stop growing as a developer. 🌱  
+- ⚡ Fun fact: I enjoy learning new programming languages and frameworks, and my goal is to never stop growing as a developer🌱  
 
 
 <!---

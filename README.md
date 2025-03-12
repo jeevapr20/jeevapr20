@@ -2,8 +2,7 @@
 - 👀 I’m interested in exploring the world of technology from my keyboard
 - 🌱 I’m currently learning python-django, react.js, node.js .....
 - 💞️ I’m looking to collaborate on full-stack web applications
-- 📫 How to reach me: You can find me on Linkedin at https://www.linkedin.com/in/jeeva-p-r
-- 😄 Pronouns: She/Her
+- 📫 You can find me on Linkedin at https://www.linkedin.com/in/jeeva-p-r
 - ⚡ Fun fact: I enjoy learning new programming languages and frameworks, and my goal is to never stop growing as a developer🌱  
 
 
